@@ -1,5 +1,5 @@
 {
-  "domain": "niu",
+  "domain": "niu_dual_battery",
   "name": "Niu Scooters",
   "after_dependencies": ["generic"],
   "codeowners": [
