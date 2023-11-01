@@ -8,7 +8,7 @@ MOTOINFO_ALL_API_URI = "/motoinfo/overallTally"
 TRACK_LIST_API_URI = "/v5/track/list/v2"
 # FIRMWARE_BAS_URL = '/motorota/getfirmwareversion'
 
-DOMAIN = "niu"
+DOMAIN = "niu_dual_battery"
 CONF_USERNAME = "username"
 CONF_PASSWORD = "password"
 CONF_SCOOTER_ID = "scooter_id"
